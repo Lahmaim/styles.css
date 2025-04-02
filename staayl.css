@@ -1,0 +1,22 @@
+body{
+
+    .navbar {
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+        background-color: #f4f4f4;
+        padding: 10px;
+    }
+    .nav-list {
+        list-style: none;
+        display: flex;
+        gap: 10px;
+    }
+    .nav-item {
+        padding: 5px;
+        text-decoration: none;
+    }
+    
+
+
+}
